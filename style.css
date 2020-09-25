@@ -24,7 +24,9 @@ h1 {
     border: 3px solid lightgray;
     outline: none;
     font-weight: bold;
-    margin-bottom: 5vh;
+    margin-bottom: 3vh;
+    background-color: #FCFCFE;
+    color: black;
 }
 
 #index:hover, #find:hover {
@@ -38,7 +40,7 @@ h1 {
 }
 
 p {
-    margin-bottom:5vh;
+    margin-bottom:3vh;
     color: white;
     font-size: 1.5rem;
     font-weight: bold;
@@ -51,5 +53,5 @@ span {
 }
 
 iframe {
-    margin: 2vh;
+    margin: 1.5vh;
 }
