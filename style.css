@@ -13,23 +13,23 @@ body {
 
 h1 {
     margin: 10vh;
-    text-shadow: 3px 3px 3px lightgray;
+    text-shadow: 3px 3px 3px rgb(156, 170, 167); 
     font-size: 3rem;
 }
 
 #index, #find { */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    padding: 1vh;
+    padding: 1.7vh;
     border-radius: 5px;
     border: 3px solid lightgray;
-    /* box-shadow: 10px 21px 51px 4px rgba(224,206,217,1); */
+  
     outline: none;
     font-weight: bold;
     margin-bottom: 10vh;
 }
 
 #index:hover, #find:hover {
-    background-color: rgb(135, 185, 168);
+    background-color: rgb(26, 82, 63);
     color: white;
     box-shadow: 10px 21px 51px 4px rgb(139, 73, 112);
 }
@@ -45,3 +45,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+span {
+    color: rgb(26, 82, 63);
+    text-shadow: 10px 21px 51px 4px lightgray;
+}
