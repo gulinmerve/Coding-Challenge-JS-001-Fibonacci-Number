@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url("./images/wp4394840-fibonacci-wallpapers.jpg");
+    color: white;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    margin: 5vh;
+    text-shadow: 3px 3px 3px lightgray;
+    font-size: 3rem;
+}
+
+#index, #find { */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 1vh;
+    border-radius: 5px;
+    border: 3px solid lightgray;
+    /* box-shadow: 10px 21px 51px 4px rgba(224,206,217,1); */
+    outline: none;
+}
+
+#index {
+    margin-right: 1vh;
+    margin-bottom: 5vh;
+}
+
+p {
+    color: white;
+    font-size: 1.75rem;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
