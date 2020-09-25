@@ -11,7 +11,7 @@ function fibonacci() {
   const number = document.getElementById("index").value;
   const fiboArray = [1, 1];
 
-  if (parseInt(number) < 1) {
+  if (parseInt(number) < 1 || number === "") {
     document.getElementById("result").innerHTML = "⚡⚡Please Enter A Positive Number⚡⚡"
   }
 
