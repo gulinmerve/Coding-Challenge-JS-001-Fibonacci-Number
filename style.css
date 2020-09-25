@@ -28,9 +28,9 @@ h1 {
 }
 
 #index:hover, #find:hover {
-    background-color: rgb(120, 77, 131);
+    background-color: rgb(135, 185, 168);
     color: white;
-    box-shadow: 10px 21px 51px 4px rgb(66, 63, 59);
+    box-shadow: 10px 21px 51px 4px rgb(139, 73, 112);
 }
 
 #index {
