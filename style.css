@@ -5,14 +5,14 @@
 }
 
 body {
-    background-image: url("./images/wp4394840-fibonacci-wallpapers.jpg");
+    background-image: url("./images/wp4394774-fibonacci-wallpapers.jpg");
     color: white;
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h1 {
-    margin: 5vh;
+    margin: 10vh;
     text-shadow: 3px 3px 3px lightgray;
     font-size: 3rem;
 }
@@ -25,6 +25,7 @@ h1 {
     /* box-shadow: 10px 21px 51px 4px rgba(224,206,217,1); */
     outline: none;
     font-weight: bold;
+    margin-bottom: 10vh;
 }
 
 #index:hover, #find:hover {
@@ -35,12 +36,11 @@ h1 {
 
 #index {
     margin-right: 1vh;
-    margin-bottom: 5vh;
 }
 
 p {
     color: white;
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     font-weight: bold;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
