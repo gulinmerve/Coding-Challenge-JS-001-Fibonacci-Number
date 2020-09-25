@@ -24,6 +24,13 @@ h1 {
     border: 3px solid lightgray;
     /* box-shadow: 10px 21px 51px 4px rgba(224,206,217,1); */
     outline: none;
+    font-weight: bold;
+}
+
+#index:hover, #find:hover {
+    background-color: rgb(120, 77, 131);
+    color: white;
+    box-shadow: 10px 21px 51px 4px rgb(66, 63, 59);
 }
 
 #index {
@@ -37,3 +44,4 @@ p {
     font-weight: bold;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
